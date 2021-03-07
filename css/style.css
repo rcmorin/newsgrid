@@ -215,7 +215,7 @@ p {
   margin-right: .5rem;
 }
 
-/* Showcase */
+/* Showcase ************************************/
 #showcase {
   color: #fff;
   background: #333;
@@ -250,7 +250,7 @@ p {
   margin-bottom: 1rem;
 }
 
-/* Home Articles */
+/* Home Articles ******************************************************/
 #home-articles .articles-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
